@@ -1,6 +1,6 @@
-package com.example.miniproject.controller;
+package com.example.miniproject1.controller;
 
-import com.example.miniproject.model.Phong;
+import com.example.miniproject1.model.Phong;
 
 import java.util.ArrayList;
 import java.util.List;
