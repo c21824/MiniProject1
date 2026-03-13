@@ -1,4 +1,4 @@
-package com.example.miniproject.view;
+package com.example.miniproject1.view;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,9 +14,9 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.miniproject.R;
+import com.example.miniproject1.R;
 import com.example.miniproject.controller.PhongController;
-import com.example.miniproject.view.adapter.PhongAdapter;
+import com.example.miniproject1.view.adapter.PhongAdapter;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 /**

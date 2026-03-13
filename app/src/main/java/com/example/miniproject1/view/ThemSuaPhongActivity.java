@@ -1,4 +1,4 @@
-package com.example.miniproject.view;
+package com.example.miniproject1.view;
 
 import android.os.Bundle;
 import android.text.TextUtils;
