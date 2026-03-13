@@ -15,7 +15,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.miniproject1.R;
-import com.example.miniproject.controller.PhongController;
+import com.example.miniproject1.controller.PhongController;
 import com.example.miniproject1.view.adapter.PhongAdapter;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

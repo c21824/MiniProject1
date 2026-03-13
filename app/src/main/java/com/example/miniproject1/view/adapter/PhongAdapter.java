@@ -12,7 +12,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.miniproject1.R;
-import com.example.miniproject.model.Phong;
+import com.example.miniproject1.model.Phong;
 
 import java.text.NumberFormat;
 import java.util.List;

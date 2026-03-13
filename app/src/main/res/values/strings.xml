@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MiniProject1</string>
+    <string name="app_name">Quản lý Nhà Trọ</string>
+    <string name="title_them_phong">Thêm phòng mới</string>
+    <string name="title_sua_phong">Sửa thông tin phòng</string>
+    <string name="btn_luu">Lưu phòng</string>
+    <string name="xac_nhan_xoa">Xác nhận xóa</string>
+    <string name="huy">Hủy</string>
+    <string name="xoa">Xóa</string>
 </resources>

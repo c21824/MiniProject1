@@ -10,9 +10,9 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
-import com.example.miniproject.R;
-import com.example.miniproject.controller.PhongController;
-import com.example.miniproject.model.Phong;
+import com.example.miniproject1.R;
+import com.example.miniproject1.controller.PhongController;
+import com.example.miniproject1.model.Phong;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
 

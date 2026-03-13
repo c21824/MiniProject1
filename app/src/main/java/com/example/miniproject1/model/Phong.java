@@ -1,4 +1,4 @@
-package com.example.miniproject.model;
+package com.example.miniproject1.model;
 
 /**
  * MODEL - Đại diện cho một phòng trọ trong hệ thống
